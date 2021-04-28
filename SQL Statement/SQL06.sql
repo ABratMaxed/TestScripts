@@ -1,1 +1,2 @@
+WAITFOR DELAY '00:00:5';
 SELECT 'Hello World 6'
