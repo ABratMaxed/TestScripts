@@ -1,0 +1,5 @@
+move /Y "c:\temp\test\source\test1.ps1" "c:\temp\test\target\test1.ps1"
+move /Y "c:\temp\test\source\test2.ps1" "c:\temp\test\target\test2.ps1"
+move /Y "c:\temp\test\source\test3.ps1" "c:\temp\test\target\test3.ps1"
+move /Y "c:\temp\test\source\test4.ps1" "c:\temp\test\target\test4.ps1"
+move /Y "c:\temp\test\source\test5.ps1" "c:\temp\test\target\test5.ps1"
