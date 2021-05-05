@@ -1,1 +1,1 @@
-echo "Hello World 1"
+echo "Hello $1, your location is $2"
