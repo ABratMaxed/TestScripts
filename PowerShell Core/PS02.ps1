@@ -1,4 +1,4 @@
-Start-Sleep -Seconds 5;
+Start-Sleep -Seconds 60;
 Write-Output "Hello World 2";
 Write-Output $Param1;
 Write-Output $Param2;
